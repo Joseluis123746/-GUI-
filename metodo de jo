@@ -21,3 +21,4 @@
  "Suma de dos enteros", JOptionPane.PLAIN_MESSAGE );
   } // fin del método main
   } // fin de la clase Suma
+"publishConfig": { "registry": "https://npm.pkg.github.com/" }
